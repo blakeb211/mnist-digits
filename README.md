@@ -1,5 +1,5 @@
 # MNIST
-* End-to-end machine learning pipeline applied to a classic benchmark dataset--handwritten digits
+* Data science pipeline applied to a classic machine learning benchmark dataset--MNIST handwritten digits
 
 # Exploratory Data Analysis
 ### Averaged representations 
